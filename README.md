@@ -11,7 +11,7 @@ This is the official reposity of ChatAvatar Plugin for UE4, you can view our UE5
 
 ## How to use
 
-1. In your project, you will see Deemos's Logo ![image](Resources/logo_black.png){:height="30px"}
+1. In your project, you will see Deemos's Logo <img src="Resources/logo_black.png" height="30px">
 on the right of Platforms button in UE 5.x (at the bottom of Window tab in UE 4.x)
 
 2. Click the logo to open the plugin's widget window. As soon as you have opened the widget window, you can find it at Tool - Editor Utility Widgets - Deemos Import Tool, and open it in later use.
