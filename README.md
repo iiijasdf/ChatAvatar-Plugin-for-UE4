@@ -51,5 +51,7 @@ This is the official reposity of ChatAvatar Plugin for UE4, you can view our UE5
 * Face_Mat_CreateBase, M_EyeOcclusion, M_EyeRefractive, M_lacrimal_fluid, M-003_Lash_Albedo_Mat, teeth (M_Solid optional if your body material went missing too)
 * Method to update: double click the mat, in the mat window, link or unlink any line and undo it, then click Save, to trigger material re-compilation.
 
+4. If you encounter any problem during use, please feel free to issue in this repo, or leave a comment on the Epic's plugin page. We will assist in resolving the issue at the earliest opportunity.
+
 ## Please Enjoy!
 
