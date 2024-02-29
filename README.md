@@ -1,7 +1,7 @@
 # ChatAvatar-Plugin-for-UE4
 This is the official reposity of ChatAvatar Plugin for UE4, you can view our UE5 version through this link: https://www.unrealengine.com/marketplace/zh-CN/product/b7d1bab7547c4baa8eab0787a29eef73
 
-## How to install (for UE4 version)
+## How to install (for package in this repo only)
 
 1. Unzip the package you downloaded from the Releases page, you will get a folder named 'ChatAvatarPlugin'. Please make sure that you download the same version as that of your project.
 
